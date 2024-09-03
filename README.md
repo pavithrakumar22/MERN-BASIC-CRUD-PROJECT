@@ -1,0 +1,2 @@
+So this is my first mern project where i have used react in the front-end.I have used tools like bootstrap to glorify the user interface.In this project i have learnt about the CRUD operations(CREATE,READ,UPDATE,DELETE).
+This project asks for name,email and age and no duplicate email user is allowed . So it was a great and new experience for me as it was the first time i have learnt how to integrate front-end and back-end.
